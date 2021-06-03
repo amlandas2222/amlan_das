@@ -1,0 +1,35 @@
+body{
+    overflow: hidden;
+}
+.pik {
+    position: absolute;
+    left: 85px;
+    top: 116px;
+}
+.pik img{
+    width: 150px;
+    height: 150px;
+}
+
+.me {
+    width: 227px;
+    height: 665px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    padding: 0px 8px;
+    margin: 2px 2px 2px 2px;
+}
+    .container {
+        height: 141vh;
+        width: 152%;
+        background: url(bg3.png);
+    }
+    .about {
+        color: crimson;
+        font-size: 18px;
+        font-family: 'Pattaya', sans-serif;
+        display: inline-block;
+    }
